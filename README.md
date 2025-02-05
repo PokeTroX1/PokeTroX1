@@ -1,7 +1,5 @@
 Let's make LG WING fun again!
 
-Hi, this is poketrox, I'm interested in phones, programming and 3D printing. One of my many goals is to create applications that would give the lg wing a second life.
-
 My 3D Printers:
 
 Creality ender 3
