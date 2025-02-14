@@ -8,7 +8,7 @@ Creality ender 3
 
 Creality K1C
 
-my pc:
+my PC:
 
 AMD Ryzen 5 5600X
 
@@ -20,14 +20,14 @@ RTX 3060TI
 
 1x500GB SSD
 
-my laptops:
+my Laptops:
 
 HP Elitebook 840 g3
 
 Acer Aspire E1-571
 
 
-My phones:
+My Phones:
 
 MAIN: 8/128 Nothing Phone (2) |Pong|
 
