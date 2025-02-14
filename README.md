@@ -1,5 +1,7 @@
 Let's make LG WING fun again!
 
+❌: Broken
+
 My 3D Printers:
 
 Creality ender 3
@@ -27,26 +29,27 @@ Acer Aspire E1-571
 
 My phones:
 
-Nothing phone (2) main
+MAIN: 8/128 Nothing Phone (2) |Pong|
 
-LG WING
+8/128 LG Wing |?|
 
-Xiaomi redmi note 10 pro
+6/128 Xiaomi Redmi Note 10 Pro |Sweet|
 
-Samsung galaxy s20fe
+6/128 Samsung Galaxy S20fe
 
-Huawei mate 10 lite
+4/64 Huawei Mate 10 Lite |?|
 
-Iphone xs
+❌4/64 Iphone Xs |?|
 
-Iphone 6s
+2/32 Iphone 6s |?|
 
-Motorola moto z2 play
+4/64 Motorola Moto Z2 Play |Albus|
+
+❌3/32 Nokia Lumia 950 |Talkman|
 
 
-
-
-
+My Smartwatches:
+2/16 Samsung Galaxy Watch 6 Classic |?|
 
 
 
