@@ -1,59 +1,5 @@
 Let's make LG WING fun again!
 
-❌: Broken
-
-My 3D Printers:
-
-Creality ender 3
-
-Creality K1C
-
-my PC:
-
-AMD Ryzen 5 5600X
-
-RTX 3060TI
-
-4x8GB RAM
-
-2x240GB SSD
-
-1x500GB SSD
-
-my Laptops:
-
-HP Elitebook 840 g3
-
-Acer Aspire E1-571
-
-
-My Phones:
-
-MAIN: 8/128 Nothing Phone (2) |Pong|
-
-8/128 LG Wing |?|
-
-6/128 Xiaomi Redmi Note 10 Pro |Sweet|
-
-6/128 Samsung Galaxy S20fe
-
-4/64 Huawei Mate 10 Lite |?|
-
-❌4/64 Iphone Xs |?|
-
-2/32 Iphone 6s |?|
-
-4/64 Motorola Moto Z2 Play |Albus|
-
-❌3/32 Nokia Lumia 950 |Talkman|
-
-
-My Smartwatches:
-
-2/16 Samsung Galaxy Watch 6 Classic |?|
-
-
-
 
 
 
